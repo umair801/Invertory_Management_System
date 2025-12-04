@@ -1,0 +1,13 @@
+{
+  "bookNotFound": "書籍が見つかりません",
+  "bookDeletedSuccessfully": "書籍が正常に削除されました",
+  "bookUpdatedSuccessfully": "書籍が正常に更新されました",
+  "bookNameRequired": "書籍名は必須です",
+  "bookNameValidation": "書籍名は5文字から100文字の間である必要があります",
+  "priceRequired": "価格は必須です",
+  "priceValidation": "価格は0から10000の間である必要があります",
+  "countInStockRequired": "在庫数は必須です",
+  "countInStockValidation": "在庫数は0から1000の間である必要があります",
+  "imageValidation": "画像は有効なURLである必要があります",
+  "idValidation": "書籍IDは有効なMongoDB IDである必要があります"
+}

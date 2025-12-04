@@ -1,0 +1,13 @@
+{
+  "bookNotFound": "पुस्तक नहीं मिली",
+  "bookDeletedSuccessfully": "पुस्तक सफलतापूर्वक हटाई गई",
+  "bookUpdatedSuccessfully": "पुस्तक सफलतापूर्वक अपडेट की गई",
+  "bookNameRequired": "पुस्तक का नाम आवश्यक है",
+  "bookNameValidation": "पुस्तक का नाम 5 से 100 वर्णों के बीच होना चाहिए",
+  "priceRequired": "मूल्य आवश्यक है",
+  "priceValidation": "मूल्य 0 से 10000 के बीच होना चाहिए",
+  "countInStockRequired": "स्टॉक में संख्या आवश्यक है",
+  "countInStockValidation": "स्टॉक में संख्या 0 से 1000 के बीच होनी चाहिए",
+  "imageValidation": "छवि एक मान्य URL होनी चाहिए",
+  "idValidation": "पुस्तक ID एक मान्य MongoDB ID होनी चाहिए"
+}

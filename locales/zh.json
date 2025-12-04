@@ -1,0 +1,13 @@
+{
+  "bookNotFound": "未找到书籍",
+  "bookDeletedSuccessfully": "书籍删除成功",
+  "bookUpdatedSuccessfully": "书籍更新成功",
+  "bookNameRequired": "书名是必需的",
+  "bookNameValidation": "书名必须在5到100个字符之间",
+  "priceRequired": "价格是必需的",
+  "priceValidation": "价格必须在0到10000之间",
+  "countInStockRequired": "库存数量是必需的",
+  "countInStockValidation": "库存数量必须在0到1000之间",
+  "imageValidation": "图片必须是有效的URL",
+  "idValidation": "书籍ID必须是有效的MongoDB ID"
+}

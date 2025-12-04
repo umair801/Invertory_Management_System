@@ -1,0 +1,13 @@
+{
+  "bookNotFound": "الكتاب غير موجود",
+  "bookDeletedSuccessfully": "تم حذف الكتاب بنجاح",
+  "bookUpdatedSuccessfully": "تم تحديث الكتاب بنجاح",
+  "bookNameRequired": "اسم الكتاب مطلوب",
+  "bookNameValidation": "يجب أن يكون اسم الكتاب بين 5 و 100 حرف",
+  "priceRequired": "السعر مطلوب",
+  "priceValidation": "يجب أن يكون السعر بين 0 و 10000",
+  "countInStockRequired": "الكمية في المخزون مطلوبة",
+  "countInStockValidation": "يجب أن تكون الكمية في المخزون بين 0 و 1000",
+  "imageValidation": "يجب أن تكون الصورة رابط URL صالحًا",
+  "idValidation": "يجب أن يكون معرف الكتاب معرف MongoDB صالحًا"
+}

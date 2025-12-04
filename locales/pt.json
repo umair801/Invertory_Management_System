@@ -1,0 +1,13 @@
+{
+  "bookNotFound": "Livro não encontrado",
+  "bookDeletedSuccessfully": "Livro excluído com sucesso",
+  "bookUpdatedSuccessfully": "Livro atualizado com sucesso",
+  "bookNameRequired": "O nome do livro é obrigatório",
+  "bookNameValidation": "O nome do livro deve ter entre 5 e 100 caracteres",
+  "priceRequired": "O preço é obrigatório",
+  "priceValidation": "O preço deve estar entre 0 e 10000",
+  "countInStockRequired": "A quantidade em estoque é obrigatória",
+  "countInStockValidation": "A quantidade em estoque deve estar entre 0 e 1000",
+  "imageValidation": "A imagem deve ser uma URL válida",
+  "idValidation": "O ID do livro deve ser um ID MongoDB válido"
+}
