@@ -20,5 +20,3 @@ A RESTful API built with Node.js, Express, and MongoDB for managing book invento
 - **express-validator** - Input validation
 - **i18next** - Internationalization framework
 - **dotenv** - Environment variable management
-
-## 📁 Project Structure
